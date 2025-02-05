@@ -9,6 +9,11 @@ Food Circle is a community-driven platform designed to connect food enthusiasts 
 ![image](https://github.com/user-attachments/assets/3ae9a283-4384-458d-b210-832a726b42a8)
 
 
+## Live Site URL  
+
+[Food Circle](https://food-circle-a626f.web.app/)  
+
+
 ## Technologies Used
 
 ### Frontend  
